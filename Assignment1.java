@@ -1,10 +1,5 @@
 package Assignment1;
 import javax.swing.JOptionPane;
-/*
- * ID:23005491
- * NAME：Xiaoxuan Li
- */
-
 
  class Username {
     private String userName;
@@ -170,7 +165,7 @@ class Scenario4 {
 }
 
 
-public class ID23005491_Assignment1 {
+public class Assignment1 {
     public static void main(String[] args) {
         
         while(true){
